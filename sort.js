@@ -15,3 +15,5 @@ console.log(number);
 
 $ git add sort.js
 $ git commit -m
+
+$ git push origin add-sort-func
